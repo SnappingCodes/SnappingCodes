@@ -29,7 +29,7 @@ Catch my latest daily posts and shorts! If you are looking for the visual summar
 
 ### 🛠️ Tools & Technologies I Talk About
 *(Optional: Remove or edit based on the specific EDA tools you cover)*
-`Synopsys ICC2` | `Cadence Innovus` | `PrimeTime` | `Calibre` | `TCL/Python Scripting`
+`Synopsys ICC2` | `Cadence Innovus` | `PrimeTime` | `Calibre` | `TCL Scripting` | `Linux`
 
 ---
 ⚡ *“Transforming complex logic into physical reality, one post at a time.”*
